@@ -1,0 +1,29 @@
+# Секреты и конфиги
+.env
+*.key
+*.pem
+config.yaml
+
+# Логи, PID и базы данных
+*.log
+*.pid
+*.db
+users.json
+
+# Системные файлы
+.DS_Store
+__pycache__/
+vendor/
+
+# Временные файлы и кэши
+download/
+tmp/
+cache/
+
+# Медиафайлы
+*.mp4
+*.mov
+*.heic
+*.pdf
+*.jpg
+*.png
