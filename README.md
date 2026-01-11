@@ -12,3 +12,7 @@ Check your Bybit spot PNL
 , Detailed analytics for each coin
 , Export PNL to CSV file
 ⏰ Alerts for tokens and portfolio
+
+Планы: 
+1) Добавить еще биржи
+2) ...
